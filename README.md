@@ -3,7 +3,7 @@ Classificação monorrótulo de gêneros cinematográficos
 
 ## Ambiente _Linux 64bits_ utilizando Pycharm:
 
-**OBS:** exportação da configuração está no arquivo **settings.jar**
+**OBS:** exportação da configuração está no arquivo [settings](https://github.com/FernandoNici/Classificacao-Monorrotulo/blob/master/Pycharm/settings.jar)
 
   * NumPy - array processing for numbers, strings, records an objects
   >- Version: 1.15.4
