@@ -5,7 +5,7 @@ Classificação monorrótulo de gêneros cinematográficos
 PORTOLOSE  G.; FELTRIM V. D. On the Use of Synopsis-based Features for Film Genre Classification. Anais do 15º Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2018), 2018. p. 892-902.
 
 ## About
-<img src="https://github.com/FernandoNici/Classificacao-Monorrotulo/blob/master/312x276-primary-blue.png" alt="logo" height="50" width="50">  Base utilizada: dataset de sinopses em português de filmes disponibilizada pela The Movie Database (TMDb)
+<img src="https://github.com/FernandoNici/Classificacao-Monorrotulo/blob/master/312x276-primary-blue.png" alt="logo" height="50" width="50">  Base utilizada: dataset de sinopses em português de filmes disponibilizada pela The Movie Database (TMDb) <https://www.themoviedb.org/>
 
 ## Ambiente _Linux 64bits_ utilizando Pycharm:
 
